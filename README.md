@@ -1,6 +1,6 @@
 
  <div>
-   <h1>Bem-vindo(a) ao meu perfil <img align="center" alt="Js" height="60" width="60" src="https://cdn.pixabay.com/animation/2022/08/06/13/15/13-15-49-261_512.gif"></h1>
+   <h1>Bem-vindo(a) ao perfil <img align="center" alt="Js" height="60" width="60" src="https://cdn.pixabay.com/animation/2022/08/06/13/15/13-15-49-261_512.gif"></h1>
   
  <div>
    <a href="https://github.com/marimouramms">
