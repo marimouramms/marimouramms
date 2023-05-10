@@ -1,5 +1,7 @@
-## Bem-vindo(a) ao meu perfil :smiling_face_with_three_hearts:
 
+ <div>
+   <h1>Bem-vindo(a) ao meu perfil <img align="center" alt="Js" height="60" width="60" src="https://cdn.pixabay.com/animation/2022/08/06/13/15/13-15-49-261_512.gif"></h1>
+  
  <div>
    <a href="https://github.com/marimouramms">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marimouramms&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
